@@ -37,15 +37,77 @@
 
 ---
 
-## 📌 Featured Projects
+## 🌐 Portfolio Showcase
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🔬 LabZero
 
 **Virtual Lab Learning Platform**
 
-* 🧪 Simulates science experiments virtually
-* 🌐 3D visualization using Three.js
-* 🎯 Built for students without lab access
+* 🧪 Science experiments simulation
+* 🌐 3D visualization with Three.js
+* 🎯 Built for accessibility
+
+🔗 [Live Demo](https://YOUR_LIVE_LINK)
+💻 [Source Code](https://github.com/YOUR_USERNAME/LabZero)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=LabZero&theme=tokyonight" />
+
+</td>
+<td width="50%">
+
+### 🧠 MindBloom
+
+**Health Tracking Platform**
+
+* 📊 Mental + physical tracking
+* 📝 Reflection features
+* ❤️ Focus on well-being
+
+🔗 [Live Demo](https://YOUR_LIVE_LINK)
+💻 [Source Code](https://github.com/YOUR_USERNAME/MindBloom)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=MindBloom&theme=tokyonight" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎯 Habit-Quest
+
+**Gamified Habit Tracker**
+
+* 🏆 Rewards system
+* 📈 Progress tracking
+
+🔗 [Live Demo](https://YOUR_LIVE_LINK)
+💻 [Source Code](https://github.com/YOUR_USERNAME/Habit-Quest)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Habit-Quest&theme=tokyonight" />
+
+</td>
+<td width="50%">
+
+### 🌊 Sea-Level Predictor
+
+**ML Climate Project**
+
+* 📉 Predicts sea level rise
+* 📊 Data visualization
+
+🔗 [Live Demo](https://YOUR_LIVE_LINK)
+💻 [Source Code](https://github.com/YOUR_USERNAME/Sea-Level-Predictor)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sea-Level-Predictor&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 
 ---
 
