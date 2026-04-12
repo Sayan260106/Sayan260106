@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=22c55e&style=flat" alt="views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=22c55e" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat&color=22c55e" />
+  <img src="https://komarev.com/ghpvc/?username=Sayan260106&label=Profile%20Views&color=22c55e&style=flat" alt="views"/>
+  <img src="https://img.shields.io/github/followers/Sayan260106?label=Followers&style=flat&color=22c55e" />
+  <img src="https://img.shields.io/github/stars/Sayan260106?label=Stars&style=flat&color=22c55e" />
 </p>
 
 ---
@@ -238,7 +238,7 @@
 ## 📅 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan260106&theme=tokyo-night" />
 </p>
 
 ---
