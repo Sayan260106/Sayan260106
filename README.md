@@ -208,10 +208,16 @@
   <summary><b>🤖 More Projects</b></summary>
   <br />
 
-  **Jarvis Voice Assistant**
+  **A> Jarvis Voice Assistant**
   - NLP-driven voice command system
   - Task automation & hands-free productivity
   - Built with Python speech recognition
+
+  **B> Data Analysis & Visualization Projects**
+  - Page-View-Time-Series-Visualizer
+  - Medical-Data-Visualizer
+  - Demographic-Data-Analyzer
+  - Mean-Variance-Standard-Deviation-Calculator
 
 </details>
 
@@ -220,31 +226,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sayan260106&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sayan260106&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" /> -->
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan260106&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan260106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
-</p>
-
----
-
-## 🏆 Trophies & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayan260106&theme=discord&no-frame=true&column=7&margin-w=4" />
-</p>
-
-**Certifications**
-
-| Credential | Issuer | Year |
-|---|---|---|
-| 🏗️ AWS Solutions Architecture Simulation | AWS / Forage | 2024 |
-| 🤖 Machine Learning Foundations | Kaggle | 2024 |
-| ⚡ Coding Speed | CodingGame | 2024 |
-| 🧾 C Programming | CodingGame | 2024 |
-| 🏆 HackHeritage 3.0 Participant | HIT | 2024 |
+</p> -->
 
 ---
 
@@ -268,7 +256,25 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🏆 Trophies & Achievements
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayan260106&theme=discord&no-frame=true&column=7&margin-w=4" />
+</p> -->
+
+**Certifications**
+
+| Credential | Issuer | Year |
+|---|---|---|
+| 🏗️ AWS Solutions Architecture Simulation | AWS / Forage | 2024 |
+| 🤖 Machine Learning Foundations | Kaggle | 2024 |
+| ⚡ Coding Speed | CodingGame | 2024 |
+| 🧾 C Programming | CodingGame | 2024 |
+| 🏆 HackHeritage 3.0 Participant | HIT | 2024 |
+
+---
+
+## 🎯 2026 Goals
 
 - [ ] 🚀 Launch LabZero v1.0 with 10+ simulations
 - [ ] 📦 Publish first npm package
