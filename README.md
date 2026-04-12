@@ -10,13 +10,79 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:sayan.sinha.26.01.2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sayan-sinha-300a20363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sayan260106"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/_sayansinha_26"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Sayan260106&label=Profile+Views&color=7c3aed&style=flat-square" />
-</p>
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║  💎 ADVANCED VISITOR + FOLLOWERS COMBO SECTION   ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<!-- Visitor counter — prominent, full width -->
+<a href="https://github.com/Sayan260106">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://komarev.com/ghpvc/?username=Sayan260106&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://komarev.com/ghpvc/?username=Sayan260106&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=5b21b6&style=for-the-badge&abbreviated=true" />
+    <img src="https://komarev.com/ghpvc/?username=Sayan260106&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  </picture>
+</a>
+
+<br /><br />
+
+<!-- Followers + Stars + Repos trio -->
+<a href="https://github.com/Sayan260106?tab=followers">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/github/followers/Sayan260106?label=%F0%9F%91%A5+Followers&style=for-the-badge&color=a855f7&labelColor=1e1b4b&logo=github&logoColor=white" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://img.shields.io/github/followers/Sayan260106?label=%F0%9F%91%A5+Followers&style=for-the-badge&color=6d28d9&labelColor=ede9fe&logo=github&logoColor=4c1d95" />
+    <img src="https://img.shields.io/github/followers/Sayan260106?label=%F0%9F%91%A5+Followers&style=for-the-badge&color=a855f7&labelColor=1e1b4b&logo=github&logoColor=white" alt="Followers" />
+  </picture>
+</a>
+&nbsp;
+<a href="https://github.com/Sayan260106?tab=stars">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/github/stars/Sayan260106?label=%E2%AD%90+Stars&style=for-the-badge&color=f59e0b&labelColor=1e1b4b&logo=github&logoColor=white" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://img.shields.io/github/stars/Sayan260106?label=%E2%AD%90+Stars&style=for-the-badge&color=d97706&labelColor=fef3c7&logo=github&logoColor=78350f" />
+    <img src="https://img.shields.io/github/stars/Sayan260106?label=%E2%AD%90+Stars&style=for-the-badge&color=f59e0b&labelColor=1e1b4b&logo=github&logoColor=white" alt="Stars" />
+  </picture>
+</a>
+&nbsp;
+<a href="https://github.com/Sayan260106?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSayan260106&query=public_repos&label=%F0%9F%93%A6+Repos&style=for-the-badge&color=22d3ee&labelColor=1e1b4b&logo=github&logoColor=white" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSayan260106&query=public_repos&label=%F0%9F%93%A6+Repos&style=for-the-badge&color=0891b2&labelColor=ecfeff&logo=github&logoColor=0c4a6e" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSayan260106&query=public_repos&label=%F0%9F%93%A6+Repos&style=for-the-badge&color=22d3ee&labelColor=1e1b4b&logo=github&logoColor=white" alt="Repos" />
+  </picture>
+</a>
+
+<br /><br />
+
+<!-- Social links -->
+<a href="mailto:sayan.sinha.26.01.2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sayan-sinha-300a20363">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Sayan260106">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://instagram.com/_sayansinha_26">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
 
 ---
 
