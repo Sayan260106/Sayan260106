@@ -86,22 +86,14 @@
 
 ---
 
-## ⚡ About Me
+## 🚀 About Me
 
-```python
-class SayanSinha:
-    def __init__(self):
-        self.name        = "Sayan Sinha"
-        self.role        = "B.Tech CSE Student (2nd Year)"
-        self.location    = "West Bengal, India 🇮🇳"
-        self.current     = "LabZero — Virtual Science Lab Platform"
-        self.interests   = ["Machine Learning", "Full Stack Dev", "EdTech", "System Design"]
-        self.goal        = "Make quality education universally accessible via technology"
-        self.hobbies     = ["Mythology 📚", "Photography 📸", "Sketching 🎨", "Singing 🎤"]
+🎓 B.Tech Computer Science student passionate about **AI, Machine Learning, and Web Development**.
+💡 I enjoy building **data-driven applications** and **interactive platforms** that solve real-world problems.
 
-    def __str__(self):
-        return "Code. Learn. Build. Repeat."
-```
+* 🔭 Working on **LabZero – Virtual Lab Platform**
+* 🌱 Learning **Advanced ML, System Design, and Scalable Architectures**
+* 🎯 Goal: Make **quality education accessible through technology**
 
 ---
 
