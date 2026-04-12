@@ -51,10 +51,10 @@
 * 🌐 3D visualization with Three.js
 * 🎯 Built for accessibility
 
-🔗 [Live Demo](https://YOUR_LIVE_LINK)
-💻 [Source Code](https://github.com/YOUR_USERNAME/LabZero)
+<!--🔗 [Live Demo](https://YOUR_LIVE_LINK) -->
+💻 [Source Code](https://github.com/Sayan260106/LabZero)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=LabZero&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=LabZero&theme=tokyonight" /> -->
 
 </td>
 <td width="50%">
@@ -67,10 +67,10 @@
 * 📝 Reflection features
 * ❤️ Focus on well-being
 
-🔗 [Live Demo](https://YOUR_LIVE_LINK)
-💻 [Source Code](https://github.com/YOUR_USERNAME/MindBloom)
+<!--🔗 [Live Demo](https://YOUR_LIVE_LINK) -->
+💻 [Source Code](https://github.com/Sayan260106/MindBloom)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=MindBloom&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=MindBloom&theme=tokyonight" /> -->
 
 </td>
 </tr>
@@ -85,10 +85,10 @@
 * 🏆 Rewards system
 * 📈 Progress tracking
 
-🔗 [Live Demo](https://YOUR_LIVE_LINK)
-💻 [Source Code](https://github.com/YOUR_USERNAME/Habit-Quest)
+<!-- 🔗 [Live Demo](https://YOUR_LIVE_LINK) -->
+💻 [Source Code](https://github.com/Sayan260106/Habit-Quest)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Habit-Quest&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Habit-Quest&theme=tokyonight" /> -->
 
 </td>
 <td width="50%">
@@ -100,10 +100,10 @@
 * 📉 Predicts sea level rise
 * 📊 Data visualization
 
-🔗 [Live Demo](https://YOUR_LIVE_LINK)
-💻 [Source Code](https://github.com/YOUR_USERNAME/Sea-Level-Predictor)
+<!-- 🔗 [Live Demo](https://YOUR_LIVE_LINK) -->
+💻 [Source Code](https://github.com/Sayan260106/Sea-Level-Predictor)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sea-Level-Predictor&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sea-Level-Predictor&theme=tokyonight" /> -->
 
 </td>
 </tr>
@@ -163,23 +163,23 @@
 <p align="center">
   <!-- Light Mode -->
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="170" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Sayan260106&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Sayan260106&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sayan260106&show_icons=true" height="170" />
   </picture>
 
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="170" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sayan260106&theme=default" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sayan260106&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan260106" height="170" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="150" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan260106&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan260106&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan260106&layout=compact" height="150" />
   </picture>
 </p>
 
@@ -188,7 +188,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayan260106&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -196,7 +196,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Sayan260106/Sayan260106/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -205,7 +205,7 @@
 
 <p align="center">
   <!-- Visitor Counter + Socials -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Sayan260106&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -266,6 +266,7 @@
 ## ⚡ Quote
 
 > *"Code. Learn. Build. Repeat."*
+> *"Smart enough to build it, creative enough to capture it."*
 
 ---
 
