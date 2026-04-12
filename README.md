@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+2nd+Year;ML+%2B+Full+Stack+Engineer;Building+LabZero+%F0%9F%94%AC;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+2nd+Year;Full+Stack+Developer;Open+to+Collaborate+%F0%9F%A4%9D;ML+Enthusiast;Thinker+And+Doer;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,8 +26,10 @@
     <img src="https://komarev.com/ghpvc/?username=Sayan260106&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true" alt="Profile Views" />
   </picture>
 </a>
+<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <br /><br />
+
 
 <!-- Followers + Stars + Repos trio -->
 <a href="https://github.com/Sayan260106?tab=followers">
@@ -62,6 +64,8 @@
 
 <br /><br />
 
+
+
 <!-- Social links -->
 <a href="mailto:sayan.sinha.26.01.2006@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
@@ -83,7 +87,6 @@
 
 <br />
 
-
 ---
 
 ## 🚀 About Me
@@ -91,9 +94,12 @@
 🎓 B.Tech Computer Science student passionate about **AI, Machine Learning, and Web Development**.
 💡 I enjoy building **data-driven applications** and **interactive platforms** that solve real-world problems.
 
-* 🔭 Working on **LabZero – Virtual Lab Platform**
-* 🌱 Learning **Advanced ML, System Design, and Scalable Architectures**
-* 🎯 Goal: Make **quality education accessible through technology**
+
+- 🔭 Working on **LabZero – Virtual Lab Platform**
+- 🌱 Learning **Advanced ML, System Design, and Scalable Architectures**
+- 🎯 Goal: Make **quality education accessible through technology**
+
+
 
 ---
 
@@ -101,33 +107,33 @@
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://devdocs.io/c/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://devdocs.io/cpp/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://devdocs.io/python/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://devdocs.io/openjdk~17/)
 
 **Web & Frameworks**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://devdocs.io/javascript/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/docs)
 
 **Data & ML**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/doc/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/documentation.html)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/learn)
 
 **DevOps & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://docs.github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/doc/html/latest/)
 
 ---
 
@@ -152,21 +158,35 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 MindBloom</h3>
-      <p><strong>Mental & Physical Health Tracker</strong></p>
-      <ul>
-        <li>Dual mental + physical health logging</li>
-        <li>Emotional reflection journaling</li>
-        <li>Trend analysis & wellness insights</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Health%20Tech-FF6B6B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Full%20Stack-339933?style=flat-square" />
-      </p>
-      <a href="https://github.com/Sayan260106/MindBloom">
-        <img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
+  <h3>🧠 MindBloom</h3>
+  <p><strong>Mental & Physical Health Tracker</strong></p>
+
+  <p>
+    A full-stack wellness platform designed to track both mental and physical health,
+    enabling users to reflect, analyze trends, and improve overall well-being.
+  </p>
+
+  <ul>
+    <li>🧠 Dual mental + physical health tracking</li>
+    <li>📓 Emotional reflection & journaling</li>
+    <li>📊 Trend analysis with actionable insights</li>
+  </ul>
+
+  <p>
+    <a href="https://en.wikipedia.org/wiki/Digital_health">
+      <img src="https://img.shields.io/badge/Health%20Tech-FF6B6B?style=flat-square" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps">
+      <img src="https://img.shields.io/badge/Full%20Stack-339933?style=flat-square" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/Sayan260106/MindBloom">
+      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -208,16 +228,18 @@
   <summary><b>🤖 More Projects</b></summary>
   <br />
 
-  **A> Jarvis Voice Assistant**
-  - NLP-driven voice command system
-  - Task automation & hands-free productivity
-  - Built with Python speech recognition
+**A> Jarvis Voice Assistant**
 
-  **B> Data Analysis & Visualization Projects**
-  - Page-View-Time-Series-Visualizer
-  - Medical-Data-Visualizer
-  - Demographic-Data-Analyzer
-  - Mean-Variance-Standard-Deviation-Calculator
+- NLP-driven voice command system
+- Task automation & hands-free productivity
+- Built with Python speech recognition
+
+**B> Data Analysis & Visualization Projects**
+
+- Page-View-Time-Series-Visualizer
+- Medical-Data-Visualizer
+- Demographic-Data-Analyzer
+- Mean-Variance-Standard-Deviation-Calculator
 
 </details>
 
@@ -264,13 +286,13 @@
 
 **Certifications**
 
-| Credential | Issuer | Year |
-|---|---|---|
-| 🏗️ AWS Solutions Architecture Simulation | AWS / Forage | 2024 |
-| 🤖 Machine Learning Foundations | Kaggle | 2024 |
-| ⚡ Coding Speed | CodingGame | 2024 |
-| 🧾 C Programming | CodingGame | 2024 |
-| 🏆 HackHeritage 3.0 Participant | HIT | 2024 |
+| Credential                               | Issuer       | Year |
+| ---------------------------------------- | ------------ | ---- |
+| 🏗️ AWS Solutions Architecture Simulation | AWS / Forage | 2025 |
+| 🤖 Machine Learning Foundations          | Kaggle       | 2025 |
+| ⚡ Coding Speed                          | CodingGame   | 2025 |
+| 🧾 C Programming                         | CodingGame   | 2025 |
+| 🏆 HackHeritage 3.0 Participant          | HIT          | 2025 |
 
 ---
 
@@ -299,9 +321,9 @@
 
 ## 🎨 Fun Side
 
-* 📚 Mythology lover
-* 📸 Photography & sketching
-* 🎤 Singing (sometimes 😄)
+- 📚 Mythology lover
+- 📸 Photography & sketching
+- 🎤 Singing (sometimes 😄)
 
 ---
 
@@ -312,7 +334,7 @@
 
 <br />
 
-*If you find my work interesting, a ⭐ means the world to me!*
+_If you find my work interesting, a ⭐ means the world to me!_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
