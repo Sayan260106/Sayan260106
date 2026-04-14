@@ -255,7 +255,7 @@
 
 ---
 
-🗂️ Profile Summary Cards
+## 🗂️ Profile Summary Cards
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayan260106&theme=tokyonight" width="100%"/> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayan260106&theme=tokyonight" width="32%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayan260106&theme=tokyonight" width="32%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayan260106&theme=tokyonight" width="32%"/> </div>
 
 ---
@@ -403,7 +403,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ---
 
 ## 💬 Let's Connect & Build Something Amazing!
-<a href="mailto:sayan.sinha.26.01.2006@gmail.com"> <img src="https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://linkedin.com/in/sayan-sinha-300a20363"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/Sayan260106"> <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="mailto:sayan.sinha.26.01.2006@gmail.com"> <img src="https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://linkedin.com/in/sayan-sinha-300a20363"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/Sayan260106"> <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> &nbsp; <a href="https://www.instagram.com/_sayansinha_26">   <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 <br/><br/>
 
 ---
