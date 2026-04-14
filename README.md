@@ -343,6 +343,6 @@
 
 _If you find my work interesting, a ⭐ means the world to me!_
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=20&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
 
 </div>
