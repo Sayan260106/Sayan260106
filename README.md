@@ -280,13 +280,11 @@
 
 ## ⏱️ Weekly Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 69.8 kB Used in GitHub's Storage 
+> 📦 69.9 kB Used in GitHub's Storage 
  > 
 > 🏆 43 Contributions in the Year 2026
  > 
@@ -296,45 +294,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16 commits          ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-🌆 Daytime                12 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-🌃 Evening                24 commits          ██████████░░░░░░░░░░░░░░░   39.34 % 
-🌙 Night                  9 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Tuesday                  19 commits          ████████░░░░░░░░░░░░░░░░░   31.15 % 
-Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Friday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Saturday                 12 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Sunday                   17 commits          ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -352,7 +311,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sayan260106/Sayan260106/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2026 18:06:16 UTC
+ Last Updated on 14/04/2026 19:47:58 UTC
 <!--END_SECTION:waka-->
 
 ---
