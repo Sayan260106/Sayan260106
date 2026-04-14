@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sayan%20Sinha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:6d28d9,100:24243e&height=220&section=header&text=Sayan%20Sinha&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time%20🚀&descAlignY=56&descSize=18&animation=fadeIn&stroke=a78bfa&strokeWidth=2" />
 
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+2nd+Year;Full+Stack+Developer;Open+to+Collaborate+%F0%9F%A4%9D;ML+Enthusiast;Thinker+And+Doer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=B.Tech+CSE+%40+MAKAUT+%7C+2nd+Year;Full+Stack+Developer+%F0%9F%92%BB;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%90;Building+LabZero+%E2%80%94+Virtual+Lab+Platform+%F0%9F%94%AC;Thinker.+Builder.+Dreamer.+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -247,10 +247,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sayan260106&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" /> -->
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan260106&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-</p>
+<div align="center"> <a href="https://github.com/Sayan260106"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayan260106&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan260106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" /> </a> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan260106&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&stroke=a78bfa" /> </div>
 
 <!-- <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan260106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
@@ -258,11 +255,14 @@
 
 ---
 
+🗂️ Profile Summary Cards
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayan260106&theme=tokyonight" width="100%"/> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayan260106&theme=tokyonight" width="32%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayan260106&theme=tokyonight" width="32%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayan260106&theme=tokyonight" width="32%"/> </div>
+
+---
+
 ## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan260106&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" />
-</p>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan260106&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f59e0b&area=true&area_color=a78bfa" width="100%"/> </div>
 
 ---
 
@@ -275,6 +275,11 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Sayan260106/Sayan260106/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+---
+
+##⏱️ Weekly Coding Stats
+<!--START_SECTION:waka--> <!--END_SECTION:waka-->
 
 ---
 
@@ -297,13 +302,12 @@
 ---
 
 ## 🎯 2026 Goals
-
-- [ ] 🚀 Launch LabZero v1.0 with 10+ simulations
-- [ ] 📦 Publish first npm package
-- [ ] 🤖 Complete advanced ML specialization
-- [ ] 🌐 Deploy 3 full-stack projects to production
-- [ ] 🤝 Contribute to 5 open-source repositories
-- [ ] 🏆 Win a national-level hackathon
+<p>🚀 Launch LabZero v1.0 (10+ simulations)   ████████░░░░░░░░░░░░   40%</p>
+<p>🤖 Advanced ML Specialization              █████░░░░░░░░░░░░░░░   25%</p>
+<p>🌐 Deploy 3 full-stack projects            ████░░░░░░░░░░░░░░░░   20%</p>
+<p>🤝 Contribute to 5 Open-Source repos       ███░░░░░░░░░░░░░░░░░   15%</p>
+<p>🏆 Win a national-level hackathon          ██░░░░░░░░░░░░░░░░░░   10%</p>
+<p>📦 Publish first npm package               ██░░░░░░░░░░░░░░░░░░   10%</p>
 
 ---
 
@@ -319,11 +323,14 @@
 
 ---
 
-## 🎨 Fun Side
+## 🎨 Beyond the Code
+<table align="center"> <tr> <td align="center" width="150">📚<br/><b>Mythology</b><br/><sub>Greek & Indian epics</sub></td> <td align="center" width="150">📸<br/><b>Photography</b><br/><sub>Capturing moments</sub></td> <td align="center" width="150">✏️<br/><b>Sketching</b><br/><sub>Pencil & digital art</sub></td> <td align="center" width="150">🎤<br/><b>Singing</b><br/><sub>Sometimes 😄</sub></td> <td align="center" width="150">🧩<br/><b>Problem Solving</b><br/><sub>Chess & Puzzles</sub></td> </tr> </table>
 
-- 📚 Mythology lover
-- 📸 Photography & sketching
-- 🎤 Singing (sometimes 😄)
+---
+
+## 💬 Let's Connect & Build Something Amazing!
+<a href="mailto:sayan.sinha.26.01.2006@gmail.com"> <img src="https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://linkedin.com/in/sayan-sinha-300a20363"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/Sayan260106"> <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<br/><br/>
 
 ---
 
