@@ -26,7 +26,7 @@
     <img src="https://komarev.com/ghpvc/?username=Sayan260106&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true" alt="Profile Views" />
   </picture>
 </a>
-<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- <img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
 <br /><br />
 
@@ -94,11 +94,16 @@
 🎓 B.Tech Computer Science student passionate about **AI, Machine Learning, and Web Development**.
 💡 I enjoy building **data-driven applications** and **interactive platforms** that solve real-world problems.
 
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔭 Working on **LabZero – Virtual Lab Platform**
 - 🌱 Learning **Advanced ML, System Design, and Scalable Architectures**
 - 🎯 Goal: Make **quality education accessible through technology**
+- ⚡ Fun-fact   : **I debug code and souls simultaneously 😄**
 
+**🔥 Currently**
+ - 🔬 Building **LabZero** — 3D virtual science simulations
+ - 🤖 Exploring **Deep Learning & Neural Networks**
 
 
 ---
@@ -247,8 +252,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center"> <a href="https://github.com/Sayan260106"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayan260106&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan260106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" /> </a> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan260106&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&stroke=a78bfa" /> </div>
-
+<div align="center"> <a href="https://github.com/Sayan260106"> </a> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan260106&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&stroke=a78bfa" /> </div>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayan260106&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true" /> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan260106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" /> -->
 <!-- <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan260106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
 </p> -->
