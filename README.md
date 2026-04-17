@@ -221,7 +221,8 @@
   <p><strong>Mental & Physical Health Tracker</strong></p>
 
   <p>
-    A full-stack wellness platform designed to track both mental and physical health,
+    This our collaborative project. A full-stack wellness platform designed to track 
+    both mental and physical health,
     enabling users to reflect, analyze trends, and improve overall well-being.
   </p>
 
@@ -241,7 +242,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/Sayan260106/MindBloom">
+    <a href="https://github.com/Ankan0503/MindBloom-SehatSaarthi">
       <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
