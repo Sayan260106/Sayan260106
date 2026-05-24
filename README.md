@@ -341,13 +341,15 @@
 
 ## ⏱️ Weekly Coding Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2019%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 282.1 kB Used in GitHub's Storage 
  > 
-> 🏆 195 Contributions in the Year 2026
+> 🏆 196 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -355,6 +357,45 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+🌆 Daytime                89 commits          ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌃 Evening                130 commits         ██████████░░░░░░░░░░░░░░░   38.35 % 
+🌙 Night                  76 commits          ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Tuesday                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Wednesday                109 commits         ████████░░░░░░░░░░░░░░░░░   32.15 % 
+Thursday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Saturday                 49 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Sunday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -372,7 +413,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sayan260106/Sayan260106/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 19:42:45 UTC
+ Last Updated on 24/05/2026 19:45:57 UTC
 <!--END_SECTION:waka-->
 
 ---
