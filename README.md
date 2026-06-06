@@ -343,7 +343,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2019%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -413,7 +413,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sayan260106/Sayan260106/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 20:22:36 UTC
+ Last Updated on 06/06/2026 19:52:12 UTC
 <!--END_SECTION:waka-->
 
 ---
